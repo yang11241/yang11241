@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3>Huijun-Yang</h3>
-<p>🙆Hi There! I'm a frontEnd developer.</p>
+<p>🙆Hi There! I'm a Back-End Developer.</p>
 <p>My main skills are Python, Django, PostgreSQL</p>
 
 #
